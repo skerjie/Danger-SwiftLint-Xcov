@@ -1,0 +1,1 @@
+# Danger-SwiftLint-Xcov
